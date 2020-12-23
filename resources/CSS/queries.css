@@ -1,0 +1,155 @@
+@media only screen and (max-width: 1200px) {
+
+    .hero-text-box {
+
+        width: 100%;
+        padding: 0 2%;
+
+    }
+
+    .row {
+        padding: 0 2%;
+    }
+
+    .span-1-of-3 {
+        width: 30%;
+    }
+
+
+
+}
+
+
+@media only screen and (max-width: 1023px) {}
+
+body {
+    font-size: 80%;
+
+}
+
+.steps-box:first-child {
+
+    margin-top: 20px;
+
+}
+
+
+
+.steps-box:last-child {
+
+    margin-top: 30px;
+
+}
+
+.app-screen {
+    width: 50%;
+}
+
+
+
+
+.works-step:last-of-type {
+    margin-bottom: 50px;
+}
+
+.btn-app img {
+    height: 30px;
+    width: auto;
+    margin-right: 5px;
+}
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+
+    .meals-showcase li {
+
+        width: 90%;
+
+    }
+
+    .section-meals {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .hero-text-box {
+        left: 2%;
+        width: 100%;
+        padding: 0 2%;
+        font-size: 75%;
+    }
+
+    .steps-box:first-child {
+        text-align: center;
+
+
+    }
+
+    h2 {
+        font-size: 140%;
+    }
+
+
+
+
+    .span-1-of-3 {
+        width: 100%;
+
+    }
+
+    .span-2-of-3 {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .home-news {
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .allt {
+        width: 70%;
+        margin-bottom: 20px;
+    }
+
+
+
+    .main-nav li {
+
+        margin-left: 10px;
+        margin-top: 55px;
+    }
+
+
+
+
+    footer {
+
+        font-size: 60%;
+
+
+    }
+
+    .social i {
+        margin-left: 15px;
+
+    }
+
+
+    .long-copy {
+
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    section {
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+
+}
